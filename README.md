@@ -1,1 +1,1 @@
-# DEMO for Arbitrage Project
+# DEMO for Betting Arbitrage Project
